@@ -1,0 +1,7 @@
+body {
+  background-color: #ffe4e1;
+  color: #111;
+}
+.carousel-caption d-none d-md-block {
+  color: #111;
+}
